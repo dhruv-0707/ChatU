@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393075822473",
+    "project_id": "chatu-cec99",
+    "storage_bucket": "chatu-cec99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393075822473:android:e06ec06b1920caa8ea5b58",
+        "android_client_info": {
+          "package_name": "com.example.chatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393075822473-9jhndu72bprpuauh335sp15eqht30rbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftnpaIi4Yv-5pNX0O2SOT0lX9Wm5a8oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393075822473-9jhndu72bprpuauh335sp15eqht30rbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

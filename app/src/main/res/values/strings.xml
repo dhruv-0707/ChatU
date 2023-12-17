@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ChatU</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login"><u>Login</u></string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="register"><u>Register</u></string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="register_button">Register</string>
+    <string name="phone">Phone</string>
+    <string name="confirm_npassword">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="name">Name</string>
+    <string name="dummy" />
+    <string name="status">Status</string>
+    <string name="hey_there">Hey there!</string>
+    <string name="update_your_status">Update your status</string>
+    <string name="type_here">Type here</string>
+    <string name="update">Update</string>
+    <string name="type_your_messasge">Type your messasge</string>
+    <string name="message">message</string>
+</resources>
